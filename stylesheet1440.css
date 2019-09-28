@@ -1,0 +1,1895 @@
+.mediaViewInfo {
+	--web-view-name: Desktop HD - 1440;
+	--web-view-id: Desktop_HD___1440;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Desktop_HD___1440;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+#Desktop_HD___1440 {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 11220px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: Desktop HD - 1440;
+	--web-view-id: Desktop_HD___1440;
+	--web-enable-deep-linking: true;
+}
+
+#Background {
+	position: absolute;
+	width: 2738.629px;
+	height: 4249px;
+	left: -508.051px;
+	top: 0px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Background_Color {
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 278.671px;
+	width: 2459.957px;
+	height: 4249px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Desktop_HD___1440 #Shadow {
+	filter: drop-shadow(0px 5px 50px rgba(229, 203, 227, 1));
+}
+#Desktop_HD___1440 .Shadow {
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 2834.65px;
+	height: 1298px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Desktop_HD___1440 .Rectangle {
+	position: absolute;
+	overflow: visible;
+	width: 181px;
+	height: 417px;
+	left: 1329.051px;
+	top: 3217px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	height: 127px;
+	left: 804.051px;
+	top: 1405px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	height: 364px;
+	left: 1264.051px;
+	top: 1804px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 523px;
+	height: 74px;
+	left: 1743.051px;
+	top: 1578px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	height: 119px;
+	left: 1145.051px;
+	top: 1555px;
+}
+#Desktop_HD___1440 .Oval {
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 218px;
+	left: 586.051px;
+	top: 3046px;
+}
+#Desktop_HD___1440 .Oval_Copy {
+	position: absolute;
+	overflow: visible;
+	width: 258px;
+	height: 257px;
+	left: 2048.051px;
+	top: 2546px;
+}
+#Desktop_HD___1440 .Oval_Copy_2 {
+	position: absolute;
+	overflow: visible;
+	width: 187px;
+	height: 186px;
+	left: 1963.051px;
+	top: 3046px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 114px;
+	height: 114px;
+	left: 804.051px;
+	top: 2630px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	height: 94px;
+	left: 1287.051px;
+	top: 2756px;
+}
+#Desktop_HD___1440 .Oval_A5_Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 235px;
+	height: 235px;
+	left: 1455.051px;
+	top: 1758px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 589px;
+	height: 174px;
+	left: 2048.051px;
+	top: 3643px;
+}
+#Desktop_HD___1440 .Rectangle_Copy_3 {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 88px;
+	left: 144.051px;
+	top: 4050px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 447px;
+	height: 69px;
+	left: 1719.051px;
+	top: 2744px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	height: 455px;
+	left: 598.051px;
+	top: 1424px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	height: 307px;
+	left: 2224.051px;
+	top: 1032px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	height: 192px;
+	left: 452.051px;
+	top: 936px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 225px;
+	height: 225px;
+	left: 431.051px;
+	top: 2251px;
+}
+#Desktop_HD___1440 .Oval_A5_Ellipse_5 {
+	position: absolute;
+	overflow: visible;
+	width: 302px;
+	height: 302px;
+	left: 366.051px;
+	top: 3618px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 247px;
+	height: 126px;
+	left: 1758px;
+	top: 3071px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_16 {
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	height: 266px;
+	left: 1827px;
+	top: 1843px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	height: 381px;
+	left: -73px;
+	top: 2626px;
+}
+#Desktop_HD___1440 .Oval_A5_Ellipse_6 {
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	height: 89px;
+	left: 1669px;
+	top: 2123px;
+}
+#Desktop_HD___1440 #Top {
+	position: absolute;
+	width: 1966px;
+	height: 1124px;
+	left: -21px;
+	top: -232px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #TopBg {
+	position: absolute;
+	width: 1966px;
+	height: 1074px;
+	left: 70px;
+	top: 100px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Oval_A5_Ellipse_7 {
+	position: absolute;
+	overflow: visible;
+	width: 1059px;
+	height: 1042px;
+	left: 907px;
+	top: 0px;
+}
+#Desktop_HD___1440 .Oval_A5_Ellipse_8 {
+	position: absolute;
+	overflow: visible;
+	width: 413px;
+	height: 406px;
+	left: 455px;
+	top: 0px;
+}
+#Desktop_HD___1440 .Oval_A5_Ellipse_9 {
+	position: absolute;
+	overflow: visible;
+	width: 351px;
+	height: 345px;
+	left: 0px;
+	top: 298px;
+}
+#Desktop_HD___1440 .Oval_A5_Ellipse_10 {
+	position: absolute;
+	overflow: visible;
+	width: 226px;
+	height: 222px;
+	left: 683px;
+	top: 852px;
+}
+#Desktop_HD___1440 .Oval_A5_Ellipse_11 {
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	height: 122px;
+	left: 269px;
+	top: 798px;
+}
+#Desktop_HD___1440 #Have_you_ever_feel_A {
+	position: absolute;
+	left: 401px;
+	top: 604px;
+	overflow: visible;
+	width: 454px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#Desktop_HD___1440 #CHAT_IT_OUT__is_a_he {
+	position: absolute;
+	left: 401px;
+	top: 691px;
+	overflow: hidden;
+	width: 671px;
+	height: 196px;
+	text-align: left;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#Desktop_HD___1440 .Nokia_MockUp {
+	position: absolute;
+	overflow: visible;
+	width: 1059px;
+	height: 794px;
+	left: 796px;
+	top: 248px;
+}
+#Desktop_HD___1440 .PinClipart_com_100th_day_clip_ {
+	position: absolute;
+	overflow: visible;
+	width: 280px;
+	height: 235px;
+	left: 614px;
+	top: 889px;
+}
+#Desktop_HD___1440 #Email___meifu_wk_gma {
+	position: absolute;
+	left: 1361px;
+	top: 270px;
+	overflow: hidden;
+	width: 269px;
+	height: 70px;
+	text-align: left;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(95,95,95,1);
+}
+#Desktop_HD___1440 #Aims {
+	position: absolute;
+	width: 1532px;
+	height: 986px;
+	left: 148px;
+	top: 1758px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #Part1 {
+	position: absolute;
+	width: 1257px;
+	height: 986px;
+	left: 275px;
+	top: 0px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #VideoDemo1 {
+	position: absolute;
+	width: 720px;
+	height: 986px;
+	left: 537px;
+	top: 0px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 397.466px;
+	height: 636px;
+	left: 163.982px;
+	top: 181px;
+}
+#Desktop_HD___1440 .Ardiod_Image {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 986px;
+	left: 0px;
+	top: 0px;
+}
+#Desktop_HD___1440 #About_App__Text {
+	position: absolute;
+	width: 532px;
+	height: 418px;
+	left: 0px;
+	top: 469px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 491.213px;
+	height: 390.547px;
+	left: 40.787px;
+	top: 0px;
+}
+#Desktop_HD___1440 .Rectangle_Copy {
+	position: absolute;
+	overflow: visible;
+	width: 491.213px;
+	height: 390.547px;
+	left: 0px;
+	top: 27.453px;
+}
+#Desktop_HD___1440 #Group_3 {
+	position: absolute;
+	width: 485.893px;
+	height: 298.445px;
+	left: 30.147px;
+	top: 103.615px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #AIMS___1__NOT_FOR_DA {
+	position: absolute;
+	left: 0px;
+	top: 148.78px;
+	overflow: hidden;
+	width: 486.893px;
+	height: 149.665px;
+	text-align: left;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(0,0,0,1);
+}
+#Desktop_HD___1440 #Chat_It_Out__is_a_so {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+	width: 402.66px;
+	height: 204.572px;
+	text-align: left;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(74,74,74,1);
+}
+#Desktop_HD___1440 #WhatIsThis {
+	position: absolute;
+	width: 560px;
+	height: 71px;
+	left: 0px;
+	top: 385px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Rectangle_Copy_4 {
+	position: absolute;
+	overflow: visible;
+	width: 560px;
+	height: 69px;
+	left: 0px;
+	top: 0px;
+}
+#Desktop_HD___1440 #WHAT_IS_THIS_ {
+	position: absolute;
+	left: 102px;
+	top: 0px;
+	overflow: hidden;
+	width: 399px;
+	height: 71px;
+	text-align: right;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(255,255,255,1);
+}
+#Desktop_HD___1440 #Introduction {
+	position: absolute;
+	width: 1302px;
+	height: 1073px;
+	left: 306px;
+	top: 972px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #Introduction_Text {
+	position: absolute;
+	width: 632px;
+	height: 372px;
+	left: 670px;
+	top: 140px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_29 {
+	position: absolute;
+	overflow: visible;
+	width: 560px;
+	height: 336px;
+	left: 72px;
+	top: 36px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_30 {
+	position: absolute;
+	overflow: visible;
+	width: 560px;
+	height: 336px;
+	left: 0px;
+	top: 0px;
+}
+#Desktop_HD___1440 #People_are_social_cr {
+	position: absolute;
+	left: 55px;
+	top: 36px;
+	overflow: hidden;
+	width: 451px;
+	height: 253px;
+	text-align: left;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(74,74,74,1);
+}
+#Desktop_HD___1440 #Image {
+	position: absolute;
+	width: 622px;
+	height: 1073px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #Group_2 {
+	position: absolute;
+	width: 595px;
+	height: 382px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #Image1 {
+	position: absolute;
+	width: 548px;
+	height: 342px;
+	left: 0px;
+	top: 40px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #backlit_bonding_casual_708392 {
+	position: absolute;
+	width: 548px;
+	height: 342px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Mask_A5_Rectangle_34 {
+	position: absolute;
+	overflow: visible;
+	width: 548px;
+	height: 342px;
+	left: 0px;
+	top: 0px;
+}
+#Desktop_HD___1440 #backlit_bonding_casual_708392_A5_Group_16 {
+	position: absolute;
+	width: 548px;
+	height: 342px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_35 {
+	position: absolute;
+	overflow: visible;
+	width: 569px;
+	height: 355px;
+	left: 26px;
+	top: 0px;
+}
+#Desktop_HD___1440 #Group_4 {
+	position: absolute;
+	width: 596px;
+	height: 653px;
+	left: 26px;
+	top: 420px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #Image2 {
+	position: absolute;
+	width: 259px;
+	height: 258px;
+	left: 337px;
+	top: 0px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Mask_A5_Rectangle_39 {
+	position: absolute;
+	overflow: visible;
+	width: 259px;
+	height: 258px;
+	left: 0px;
+	top: 0px;
+}
+#Desktop_HD___1440 #Image2_A5_Group_19 {
+	position: absolute;
+	width: 259px;
+	height: 258px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #dab_dancing_enjoyment_1812402 {
+	position: absolute;
+	width: 325px;
+	height: 433px;
+	left: 0px;
+	top: 220px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Mask_A5_Rectangle_43 {
+	position: absolute;
+	overflow: visible;
+	width: 325px;
+	height: 433px;
+	left: 0px;
+	top: 0px;
+}
+#Desktop_HD___1440 #dab_dancing_enjoyment_1812402_A5_Group_21 {
+	position: absolute;
+	width: 325px;
+	height: 433px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #WHY_WE_NEED_THIS_ {
+	position: absolute;
+	left: 688px;
+	top: 69px;
+	overflow: hidden;
+	width: 399px;
+	height: 71px;
+	text-align: left;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(241,84,67,1);
+}
+#Desktop_HD___1440 #Channels {
+	position: absolute;
+	width: 1395px;
+	height: 990px;
+	left: 311px;
+	top: 3155px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #VideoDemo2 {
+	position: absolute;
+	width: 720px;
+	height: 990px;
+	left: 675px;
+	top: 0px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Video2 {
+	position: absolute;
+	overflow: visible;
+	width: 397.838px;
+	height: 639px;
+	left: 163.243px;
+	top: 182px;
+}
+#Desktop_HD___1440 .Ardiod_Image_A5_Rectangle_46 {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 990px;
+	left: 0px;
+	top: 0px;
+}
+#Desktop_HD___1440 #Text {
+	position: absolute;
+	width: 758px;
+	height: 254px;
+	left: 0px;
+	top: 580px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Rectangle_Copy_2 {
+	position: absolute;
+	overflow: visible;
+	width: 733px;
+	height: 229px;
+	left: 25px;
+	top: 21px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_49 {
+	position: absolute;
+	overflow: visible;
+	width: 721px;
+	height: 229px;
+	left: 0px;
+	top: 0px;
+}
+#Desktop_HD___1440 #Channel___Activities {
+	position: absolute;
+	left: 56px;
+	top: 6px;
+	overflow: hidden;
+	width: 649px;
+	height: 248px;
+	text-align: left;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(0,0,0,1);
+}
+#Desktop_HD___1440 #SOS_Image {
+	position: absolute;
+	width: 277.23px;
+	height: 264.354px;
+	left: 0px;
+	top: 188.823px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #Group {
+	position: absolute;
+	width: 277.23px;
+	height: 264.354px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Shape {
+	overflow: visible;
+	position: absolute;
+	top: 89.054px;
+	left: 114.575px;
+	width: 48.072px;
+	height: 86.245px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Desktop_HD___1440 .Path {
+	overflow: visible;
+	position: absolute;
+	top: 89.054px;
+	left: 50.924px;
+	width: 48.096px;
+	height: 86.245px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Desktop_HD___1440 .Path_A5_Path_4 {
+	overflow: visible;
+	position: absolute;
+	top: 89.054px;
+	left: 178.23px;
+	width: 48.071px;
+	height: 86.245px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Desktop_HD___1440 .Path_A5_Path_5 {
+	overflow: visible;
+	position: absolute;
+	top: 203.579px;
+	left: 25.449px;
+	width: 226.337px;
+	height: 9.881px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Desktop_HD___1440 .Path_A5_Path_6 {
+	overflow: visible;
+	position: absolute;
+	top: 50.895px;
+	left: 25.449px;
+	width: 226.337px;
+	height: 9.878px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Desktop_HD___1440 .Path_A5_Path_7 {
+	overflow: visible;
+	position: absolute;
+	top: 127.22px;
+	left: 0px;
+	width: 277.228px;
+	height: 137.134px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Desktop_HD___1440 .Path_A5_Path_8 {
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 277.23px;
+	height: 137.134px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Desktop_HD___1440 #Location_Image {
+	position: absolute;
+	width: 124px;
+	height: 183px;
+	left: 356px;
+	top: 362px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #Group_A5_Group_28 {
+	position: absolute;
+	width: 124px;
+	height: 183px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Shape_A5_BooleanGroup_2 {
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 124px;
+	height: 183px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Desktop_HD___1440 .Shape_A5_BooleanGroup_3 {
+	overflow: visible;
+	position: absolute;
+	top: 19.189px;
+	left: 43.517px;
+	width: 36.031px;
+	height: 36.507px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Desktop_HD___1440 #AI {
+	position: absolute;
+	width: 1212px;
+	height: 455px;
+	left: 375px;
+	top: 2779px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_50 {
+	position: absolute;
+	overflow: visible;
+	width: 640px;
+	height: 274px;
+	left: 572px;
+	top: 88px;
+}
+#Desktop_HD___1440 #Use_of_AI__Due_to_th {
+	position: absolute;
+	left: 622px;
+	top: 135px;
+	overflow: hidden;
+	width: 549px;
+	height: 299px;
+	text-align: left;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(0,0,0,1);
+}
+#Desktop_HD___1440 #AI_Image {
+	position: absolute;
+	width: 383px;
+	height: 455px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Path_A5_Path_9 {
+	overflow: visible;
+	position: absolute;
+	top: 36px;
+	left: 201px;
+	width: 191.658px;
+	height: 238px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Desktop_HD___1440 .Path_A5_Path_10 {
+	overflow: visible;
+	position: absolute;
+	top: 262px;
+	left: 242px;
+	width: 106px;
+	height: 119px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Desktop_HD___1440 .Path_A5_Path_11 {
+	overflow: visible;
+	position: absolute;
+	top: 375px;
+	left: 261px;
+	width: 12px;
+	height: 80px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_51 {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 148px;
+	top: 0px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_52 {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 42px;
+	top: 40px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_53 {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 0px;
+	top: 146px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_54 {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 42px;
+	top: 254px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_55 {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 148px;
+	top: 293px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_56 {
+	position: absolute;
+	overflow: visible;
+	width: 45.5px;
+	height: 45.5px;
+	left: 144px;
+	top: 142px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_57 {
+	position: absolute;
+	overflow: visible;
+	width: 164px;
+	height: 164px;
+	left: 90px;
+	top: 92px;
+}
+#Desktop_HD___1440 .Path_A5_Path_12 {
+	overflow: visible;
+	position: absolute;
+	top: 164px;
+	left: 42px;
+	width: 106px;
+	height: 12px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Desktop_HD___1440 .Path_A5_Path_13 {
+	overflow: visible;
+	position: absolute;
+	top: 76px;
+	left: 78px;
+	width: 96.485px;
+	height: 96.485px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Desktop_HD___1440 .Path_A5_Path_14 {
+	overflow: visible;
+	position: absolute;
+	top: 167px;
+	left: 78px;
+	width: 95.485px;
+	height: 95.485px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Desktop_HD___1440 .Path_A5_Path_15 {
+	overflow: visible;
+	position: absolute;
+	top: 35.5px;
+	left: 165.5px;
+	width: 12px;
+	height: 257px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_58 {
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	height: 15px;
+	left: 259px;
+	top: 132px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_59 {
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	height: 15px;
+	left: 259px;
+	top: 157px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_60 {
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	height: 15px;
+	left: 259px;
+	top: 184px;
+}
+#Desktop_HD___1440 #Personas {
+	position: absolute;
+	width: 1742px;
+	height: 944px;
+	left: 90px;
+	top: 4308px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Resreach_BG {
+	position: absolute;
+	overflow: visible;
+	width: 1529.614px;
+	height: 1018px;
+	left: 104.693px;
+	top: -21px;
+}
+#Desktop_HD___1440 #Grey {
+	opacity: 0.706;
+}
+#Desktop_HD___1440 .Grey {
+	position: absolute;
+	overflow: visible;
+	width: 1440px;
+	height: 1024px;
+	left: 150px;
+	top: -21px;
+}
+#Desktop_HD___1440 #Group_5 {
+	opacity: 0.637;
+	position: absolute;
+	width: 1742px;
+	height: 944px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #action_action_energy_active_28 {
+	opacity: 0.2;
+}
+#Desktop_HD___1440 .action_action_energy_active_28 {
+	position: absolute;
+	overflow: visible;
+	width: 227px;
+	height: 340px;
+	left: 1076px;
+	top: 27px;
+}
+#Desktop_HD___1440 #adult_attractive_beautiful_277 {
+	opacity: 0.583;
+}
+#Desktop_HD___1440 .adult_attractive_beautiful_277 {
+	position: absolute;
+	overflow: visible;
+	width: 511px;
+	height: 394px;
+	left: 0px;
+	top: 0px;
+}
+#Desktop_HD___1440 #adult_beautiful_beauty_2887878 {
+	opacity: 0.532;
+}
+#Desktop_HD___1440 .adult_beautiful_beauty_2887878 {
+	position: absolute;
+	overflow: visible;
+	width: 263px;
+	height: 394px;
+	left: 221px;
+	top: 550px;
+}
+#Desktop_HD___1440 #adolescent_apple_brand_logo_28 {
+	opacity: 0.4;
+}
+#Desktop_HD___1440 .adolescent_apple_brand_logo_28 {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 469px;
+	left: 582px;
+	top: 316px;
+}
+#Desktop_HD___1440 #adult_alluring_attractive_2879 {
+	opacity: 0.45;
+}
+#Desktop_HD___1440 .adult_alluring_attractive_2879 {
+	position: absolute;
+	overflow: visible;
+	width: 401px;
+	height: 602px;
+	left: 1341px;
+	top: 287px;
+}
+#Desktop_HD___1440 #RESEARCH___INSPIRATI {
+	position: absolute;
+	left: 540px;
+	top: 23px;
+	overflow: hidden;
+	width: 663px;
+	height: 55px;
+	line-height: 49px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,0);
+}
+#Desktop_HD___1440 #Persona2 {
+	position: absolute;
+	width: 623px;
+	height: 509px;
+	left: 897px;
+	top: 401px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #Secondary_Persona {
+	position: absolute;
+	left: 17px;
+	top: 0px;
+	overflow: hidden;
+	width: 548px;
+	height: 57px;
+	text-align: left;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(72,72,72,1);
+}
+#Desktop_HD___1440 .Presona_SunLi {
+	position: absolute;
+	overflow: visible;
+	width: 623px;
+	height: 460px;
+	left: 0px;
+	top: 49px;
+}
+#Desktop_HD___1440 #Persona1 {
+	position: absolute;
+	width: 572px;
+	height: 509px;
+	left: 222px;
+	top: 95px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Presona_AndyCheung {
+	position: absolute;
+	overflow: visible;
+	width: 572px;
+	height: 461px;
+	left: 0px;
+	top: 48px;
+}
+#Desktop_HD___1440 #Primary_Persona {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+	width: 438px;
+	height: 56px;
+	text-align: left;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(72,72,72,1);
+}
+#Desktop_HD___1440 #Competitive {
+	position: absolute;
+	width: 1920px;
+	height: 2656px;
+	left: 0px;
+	top: 5311px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_78 {
+	position: absolute;
+	overflow: visible;
+	width: 424px;
+	height: 2042px;
+	left: 0px;
+	top: 0px;
+}
+#Desktop_HD___1440 .Rectangle_Copy_6 {
+	position: absolute;
+	overflow: visible;
+	width: 424px;
+	height: 2042px;
+	left: 1496px;
+	top: 0px;
+}
+#Desktop_HD___1440 #SideText {
+	position: absolute;
+	width: 82.5px;
+	height: 2609px;
+	left: 342px;
+	top: 47px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #Competitive_Analysis {
+	position: absolute;
+	left: 0px;
+	top: 1330px;
+	transform: rotate(-90deg);
+	transform-origin: left;
+	overflow: visible;
+	width: 615px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,194,137,1);
+}
+#Desktop_HD___1440 #Competitive_Analysis_Copy_3 {
+	position: absolute;
+	left: 0.5px;
+	top: 1995px;
+	transform: rotate(-90deg);
+	transform-origin: left;
+	overflow: visible;
+	width: 615px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,194,137,1);
+}
+#Desktop_HD___1440 #Competitive_Analysis_Copy {
+	position: absolute;
+	left: 0.5px;
+	top: 665px;
+	transform: rotate(-90deg);
+	transform-origin: left;
+	overflow: visible;
+	width: 615px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,194,137,1);
+}
+#Desktop_HD___1440 #Competitive_Analysis_Copy_2 {
+	position: absolute;
+	left: 0.5px;
+	top: 0px;
+	transform: rotate(-90deg);
+	transform-origin: left;
+	overflow: visible;
+	width: 615px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,194,137,1);
+}
+#Desktop_HD___1440 #COMPETITIVE_ANALYSIS {
+	position: absolute;
+	left: 720px;
+	top: 32px;
+	overflow: hidden;
+	width: 484px;
+	height: 50px;
+	text-align: center;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(216,216,216,0);
+}
+#Desktop_HD___1440 .ChatItOut_Competivites {
+	position: absolute;
+	overflow: visible;
+	width: 992px;
+	height: 1831px;
+	left: 464px;
+	top: 113px;
+}
+#Desktop_HD___1440 #Design_Justification {
+	position: absolute;
+	width: 1440px;
+	height: 1032.192px;
+	left: 240px;
+	top: 7353px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .DesignJusticify {
+	position: absolute;
+	overflow: visible;
+	width: 1440px;
+	height: 1032.192px;
+	left: 0px;
+	top: 0px;
+}
+#Desktop_HD___1440 #Rectangle_A5_Rectangle_84 {
+	opacity: 0.772;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_84 {
+	position: absolute;
+	overflow: visible;
+	width: 1440px;
+	height: 1032px;
+	left: 0px;
+	top: 0px;
+}
+#Desktop_HD___1440 #DESIGN_JUSTIFICATION {
+	position: absolute;
+	left: 479px;
+	top: 307px;
+	overflow: hidden;
+	width: 484px;
+	height: 50px;
+	text-align: center;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(255,255,255,0);
+}
+#Desktop_HD___1440 #After_research_on_th {
+	position: absolute;
+	left: 184px;
+	top: 390px;
+	overflow: hidden;
+	width: 1074px;
+	height: 327px;
+	text-align: left;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(54,54,54,1);
+}
+#Desktop_HD___1440 #WorkFlow {
+	position: absolute;
+	width: 2138px;
+	height: 1054px;
+	left: -250px;
+	top: 8386px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #Workflow_BG {
+	position: absolute;
+	width: 2138px;
+	height: 1054px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_85 {
+	position: absolute;
+	overflow: visible;
+	width: 1438px;
+	height: 1054px;
+	left: 492px;
+	top: 0px;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_86 {
+	position: absolute;
+	overflow: visible;
+	width: 1014px;
+	height: 26px;
+	left: 490px;
+	top: 44.601px;
+}
+#Desktop_HD___1440 .Rectangle_Copy_11 {
+	position: absolute;
+	overflow: visible;
+	width: 1443px;
+	height: 37px;
+	left: 123px;
+	top: 798px;
+}
+#Desktop_HD___1440 .Rectangle_Copy_7 {
+	position: absolute;
+	overflow: visible;
+	width: 702px;
+	height: 18px;
+	left: 0px;
+	top: 301px;
+}
+#Desktop_HD___1440 .Rectangle_Copy_13 {
+	position: absolute;
+	overflow: visible;
+	width: 702px;
+	height: 18px;
+	left: 1253px;
+	top: 144px;
+}
+#Desktop_HD___1440 .Rectangle_Copy_9 {
+	position: absolute;
+	overflow: visible;
+	width: 702px;
+	height: 18px;
+	left: 844px;
+	top: 681px;
+}
+#Desktop_HD___1440 .Rectangle_Copy_8 {
+	position: absolute;
+	overflow: visible;
+	width: 702px;
+	height: 18px;
+	left: 592px;
+	top: 331px;
+}
+#Desktop_HD___1440 .Rectangle_Copy_10 {
+	position: absolute;
+	overflow: visible;
+	width: 702px;
+	height: 18px;
+	left: 1436px;
+	top: 711px;
+}
+#Desktop_HD___1440 .Rectangle_Copy_12 {
+	position: absolute;
+	overflow: visible;
+	width: 702px;
+	height: 18px;
+	left: 1215px;
+	top: 918px;
+}
+#Desktop_HD___1440 #WORKFLOW {
+	position: absolute;
+	left: 971px;
+	top: 94px;
+	overflow: hidden;
+	width: 484px;
+	height: 50px;
+	text-align: center;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(0,0,0,0);
+}
+#Desktop_HD___1440 #Image_A5_Group_40 {
+	position: absolute;
+	width: 1158px;
+	height: 736px;
+	left: 633px;
+	top: 177px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #Rectangle_A5_Rectangle_94 {
+	opacity: 0.7;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_94 {
+	position: absolute;
+	overflow: visible;
+	width: 1158px;
+	height: 736px;
+	left: 0px;
+	top: 0px;
+}
+#Desktop_HD___1440 .ChatItOut_UserFlow {
+	position: absolute;
+	overflow: visible;
+	width: 1158px;
+	height: 736px;
+	left: 0px;
+	top: 0px;
+}
+#Desktop_HD___1440 #WireFrame {
+	position: absolute;
+	width: 2223px;
+	height: 966px;
+	left: -208px;
+	top: 9440px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #Wireframe_Bg {
+	position: absolute;
+	width: 2223px;
+	height: 966px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #Wireframe_Oval2 {
+	position: absolute;
+	width: 2223px;
+	height: 732px;
+	left: 0px;
+	top: 83px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #Oval_A5_Ellipse_12 {
+	opacity: 0.5;
+}
+#Desktop_HD___1440 .Oval_A5_Ellipse_12 {
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	height: 151px;
+	left: 790px;
+	top: 0px;
+}
+#Desktop_HD___1440 .Oval_A5_Ellipse_13 {
+	position: absolute;
+	overflow: visible;
+	width: 302px;
+	height: 302px;
+	left: 0px;
+	top: 208px;
+}
+#Desktop_HD___1440 #Oval_A5_Ellipse_14 {
+	opacity: 0.5;
+}
+#Desktop_HD___1440 .Oval_A5_Ellipse_14 {
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	height: 222px;
+	left: 1223px;
+	top: 510px;
+}
+#Desktop_HD___1440 #Oval_A5_Ellipse_15 {
+	opacity: 0.5;
+}
+#Desktop_HD___1440 .Oval_A5_Ellipse_15 {
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	height: 222px;
+	left: 2001px;
+	top: 139px;
+}
+#Desktop_HD___1440 #Wireframe_Oval1 {
+	position: absolute;
+	width: 1740px;
+	height: 966px;
+	left: 339px;
+	top: 0px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Oval_A5_Ellipse_16 {
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	height: 402px;
+	left: 1106px;
+	top: 21px;
+}
+#Desktop_HD___1440 .Oval_A5_Ellipse_17 {
+	position: absolute;
+	overflow: visible;
+	width: 302px;
+	height: 302px;
+	left: 175px;
+	top: 664px;
+}
+#Desktop_HD___1440 .Oval_A5_Ellipse_18 {
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	height: 55px;
+	left: 951px;
+	top: 234px;
+}
+#Desktop_HD___1440 .Oval_A5_Ellipse_19 {
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	height: 222px;
+	left: 1440px;
+	top: 744px;
+}
+#Desktop_HD___1440 .Oval_A5_Ellipse_20 {
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	height: 222px;
+	left: 0px;
+	top: 0px;
+}
+#Desktop_HD___1440 .Oval_A5_Ellipse_21 {
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	height: 55px;
+	left: 29px;
+	top: 698px;
+}
+#Desktop_HD___1440 .Oval_A5_Ellipse_22 {
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	height: 78px;
+	left: 802px;
+	top: 24px;
+}
+#Desktop_HD___1440 .Oval_A5_Ellipse_23 {
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	height: 78px;
+	left: 1662px;
+	top: 586px;
+}
+#Desktop_HD___1440 #WIREFRAME {
+	position: absolute;
+	left: 875px;
+	top: 186.922px;
+	overflow: hidden;
+	width: 593px;
+	height: 61px;
+	text-align: center;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(216,216,216,0);
+}
+#Desktop_HD___1440 #WireFrame_Summary {
+	position: absolute;
+	width: 1418px;
+	height: 475px;
+	left: 461px;
+	top: 247.922px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #WireFrame_Summary_A5_Rectangle_97 {
+	filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.502));
+}
+#Desktop_HD___1440 .WireFrame_Summary_A5_Rectangle_97 {
+	position: absolute;
+	overflow: visible;
+	width: 1430px;
+	height: 487px;
+	left: 0px;
+	top: 0px;
+}
+#Desktop_HD___1440 .WireFrame_Summary_A5_Rectangle_99 {
+	position: absolute;
+	overflow: visible;
+	width: 1418px;
+	height: 475px;
+	left: 0px;
+	top: 0px;
+}
+#Desktop_HD___1440 #FinalDesign {
+	position: absolute;
+	width: 1920px;
+	height: 484px;
+	left: 0px;
+	top: 10434px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #FinalDesign_BG {
+	position: absolute;
+	width: 1920px;
+	height: 484px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .FinalDesign_Bg {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 484px;
+	left: 0px;
+	top: 0px;
+}
+#Desktop_HD___1440 #FinalDeisng_Img {
+	position: absolute;
+	width: 806px;
+	height: 484px;
+	left: 240px;
+	top: 0px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_101 {
+	position: absolute;
+	overflow: visible;
+	width: 804px;
+	height: 484px;
+	left: 2px;
+	top: 0px;
+}
+#Desktop_HD___1440 .MutiFinal_MockUp {
+	position: absolute;
+	overflow: visible;
+	width: 806px;
+	height: 484px;
+	left: 0px;
+	top: 0px;
+}
+#Desktop_HD___1440 #Text_A5_Group_49 {
+	position: absolute;
+	width: 483px;
+	height: 307px;
+	left: 1122px;
+	top: 84px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #FIANL_DESIGN {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+	width: 484px;
+	height: 50px;
+	text-align: center;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(106,106,106,1);
+}
+#Desktop_HD___1440 #The_layout_have_just {
+	position: absolute;
+	left: 9px;
+	top: 77px;
+	overflow: hidden;
+	width: 467px;
+	height: 230px;
+	text-align: left;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(106,106,106,1);
+}
+#Desktop_HD___1440 #Footer {
+	position: absolute;
+	width: 1920px;
+	height: 302px;
+	left: 0px;
+	top: 10918px;
+	overflow: visible;
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_104 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 302px;
+	left: 0px;
+	top: 0px;
+}
+#Desktop_HD___1440 #Created_by___Mei_Fu {
+	position: absolute;
+	left: 311px;
+	top: 78px;
+	overflow: hidden;
+	width: 417px;
+	height: 146px;
+	text-align: left;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(74,74,74,1);
+}
+#Desktop_HD___1440 #Chat_It_Out__An_idea {
+	position: absolute;
+	left: 648px;
+	top: 72px;
+	overflow: hidden;
+	width: 399px;
+	height: 75px;
+	text-align: left;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(74,74,74,1);
+}
+#Desktop_HD___1440 #Index_About_Special {
+	position: absolute;
+	left: 1098px;
+	top: 61px;
+	overflow: hidden;
+	width: 458px;
+	height: 180px;
+	text-align: left;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(74,74,74,1);
+}
+#Desktop_HD___1440 #Design_Process_Perso {
+	position: absolute;
+	left: 1323px;
+	top: 61px;
+	overflow: hidden;
+	width: 229px;
+	height: 180px;
+	text-align: left;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(74,74,74,1);
+}
+#Desktop_HD___1440 #Navgation_Bar {
+	position: absolute;
+	width: 619px;
+	height: 34px;
+	left: 264px;
+	top: 25px;
+	overflow: visible;
+}
+#Desktop_HD___1440 #About {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+	width: 74px;
+	height: 34px;
+	text-align: center;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(74,74,74,1);
+}
+#Desktop_HD___1440 #Product_Feature {
+	position: absolute;
+	left: 129px;
+	top: 0px;
+	overflow: hidden;
+	width: 139px;
+	height: 34px;
+	text-align: center;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(74,74,74,1);
+}
+#Desktop_HD___1440 #Design_Process {
+	position: absolute;
+	left: 323px;
+	top: 0px;
+	overflow: hidden;
+	width: 139px;
+	height: 34px;
+	text-align: center;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(74,74,74,1);
+}
+#Desktop_HD___1440 #Contact {
+	position: absolute;
+	left: 517px;
+	top: 0px;
+	overflow: hidden;
+	width: 103px;
+	height: 34px;
+	text-align: center;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(74,74,74,1);
+}
+#Desktop_HD___1440 .Rectangle_A5_Rectangle_105 {
+	position: absolute;
+	overflow: visible;
+	width: 1440px;
+	height: 842px;
+	left: 275px;
+	top: 0px;
+}
