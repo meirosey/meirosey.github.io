@@ -1,0 +1,1442 @@
+.w-embed-youtubevideo {
+  width: 100%;
+  position: relative;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  background-image: url('https://d3e54v103j8qbb.cloudfront.net/static/youtube-placeholder.2b05e7d68d.svg');
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.w-embed-youtubevideo:empty {
+  min-height: 75px;
+  padding-bottom: 56.25%;
+}
+
+.header {
+  height: 2622px;
+}
+
+.text-block {
+  position: static;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-right: 100px;
+  margin-left: 0px;
+  padding-top: 20px;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  -webkit-align-content: stretch;
+  -ms-flex-line-pack: stretch;
+  align-content: stretch;
+  font-family: 'Droid Serif', serif;
+  font-size: 16px;
+}
+
+.image {
+  position: static;
+  left: auto;
+  z-index: auto;
+  display: inline-block;
+  overflow: visible;
+  max-height: 10%;
+  border-radius: 0px;
+  -o-object-fit: contain;
+  object-fit: contain;
+}
+
+.image-2 {
+  max-width: 100%;
+}
+
+.section {
+  padding: 140px 40px 20px;
+}
+
+.section-2 {
+  margin-top: 220px;
+  padding: 0px 40px 20px;
+}
+
+.slide1 {
+  background-image: url('../images/Pronsa-2.png');
+  background-position: 0px 0px;
+  background-size: cover;
+  background-repeat: repeat;
+}
+
+.slider2 {
+  background-image: url('../images/Pronsa-1.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+
+.slider3 {
+  background-image: url('../images/Pronsa-3.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slider1 {
+  background-image: url('../images/Pronsa-2.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  font-weight: 400;
+  -o-object-fit: fill;
+  object-fit: fill;
+}
+
+.right-arrow {
+  left: auto;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  margin-left: 0px;
+  background-color: transparent;
+  opacity: 0.7;
+}
+
+.icon {
+  background-clip: border-box;
+}
+
+.slider {
+  height: 600px;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.left-arrow {
+  background-color: transparent;
+  opacity: 0.7;
+}
+
+.sub-title {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-family: Bitter, serif;
+  font-size: 22px;
+}
+
+.paragraph {
+  margin-right: 60px;
+  margin-left: 60px;
+  font-family: Bitter, serif;
+  color: #8f8f8f;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.paragraph.quotes {
+  color: #8f8f8f;
+}
+
+.text-block-3 {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-family: 'Droid Serif', serif;
+  font-size: 18px;
+}
+
+.paragraph-2 {
+  font-size: 18px;
+  font-style: italic;
+}
+
+.paragraph-2.quotes {
+  margin-right: 60px;
+  margin-left: 60px;
+  font-family: Bitter, serif;
+}
+
+.text-block-4 {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-family: 'Droid Serif', serif;
+  font-size: 18px;
+}
+
+.text-block-5 {
+  margin-right: 60px;
+  margin-bottom: 10px;
+  margin-left: 60px;
+  font-family: Bitter, serif;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.text-block-6 {
+  margin-bottom: 20px;
+  font-family: 'Droid Serif', serif;
+  font-size: 24px;
+  font-weight: 700;
+  text-align: left;
+  text-decoration: none;
+}
+
+.text-block-7 {
+  margin-bottom: 20px;
+  font-family: Bitter, serif;
+  font-size: 24px;
+  font-weight: 400;
+  text-align: left;
+}
+
+.paragraph-3 {
+  margin-bottom: 40px;
+  font-family: 'Droid Serif', serif;
+  font-size: 16px;
+}
+
+.image-3 {
+  margin-bottom: 40px;
+}
+
+.heading {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 0px;
+  margin-left: 100px;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  font-family: Montserrat, sans-serif;
+}
+
+.columns {
+  margin-top: 220px;
+  margin-bottom: 220px;
+}
+
+.image-4 {
+  margin-top: 190px;
+}
+
+.section-3 {
+  margin-top: 220px;
+  margin-bottom: 220px;
+}
+
+.section-4 {
+  margin-top: 220px;
+  margin-bottom: 220px;
+}
+
+.section-5 {
+  margin-top: 220px;
+  margin-bottom: 220px;
+}
+
+.section-6 {
+  margin-top: 220px;
+  margin-bottom: 220px;
+}
+
+.section-7 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 220px;
+  padding-bottom: 220px;
+  background-color: #ffd8aa;
+}
+
+.section-8 {
+  margin-top: 400px;
+  margin-bottom: 400px;
+}
+
+.section-9 {
+  margin-top: 220px;
+  margin-bottom: 220px;
+}
+
+.footer {
+  min-height: 400px;
+  background-color: #000;
+}
+
+.heading-2 {
+  font-family: Montserrat, sans-serif;
+}
+
+.text-block-8 {
+  font-family: 'Droid Serif', serif;
+  font-size: 16px;
+}
+
+.bold-text {
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: Montserrat, sans-serif;
+}
+
+.paragraph-4 {
+  position: static;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  line-height: 25px;
+}
+
+.heading-3 {
+  display: block;
+  margin-bottom: 20px;
+  font-family: Montserrat, sans-serif;
+}
+
+.paragraph-5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  line-height: 25px;
+  font-weight: 400;
+  white-space: normal;
+}
+
+.bold-text-2 {
+  font-family: Montserrat, sans-serif;
+}
+
+.paragraph-6 {
+  font-family: 'Droid Serif', serif;
+  font-size: 16px;
+}
+
+.bold-text-3 {
+  font-family: Montserrat, sans-serif;
+}
+
+.paragraph-7 {
+  font-family: 'Droid Serif', serif;
+  font-size: 16px;
+}
+
+.paragraph-8 {
+  font-family: 'Droid Serif', serif;
+  font-size: 16px;
+}
+
+.bold-text-4 {
+  font-family: Montserrat, sans-serif;
+}
+
+.heading-4 {
+  font-family: Montserrat, sans-serif;
+}
+
+.heading-5 {
+  font-family: Montserrat, sans-serif;
+}
+
+.paragraph-9 {
+  font-family: 'Droid Serif', serif;
+}
+
+.paragraph-10 {
+  font-family: 'Droid Serif', serif;
+}
+
+.heading-6 {
+  font-family: Montserrat, sans-serif;
+}
+
+.heading-7 {
+  font-family: Montserrat, sans-serif;
+}
+
+.heading-8 {
+  font-family: Montserrat, sans-serif;
+}
+
+.heading-9 {
+  font-family: Montserrat, sans-serif;
+}
+
+.paragraph-11 {
+  font-family: 'Droid Serif', serif;
+  font-size: 16px;
+}
+
+.paragraph-12 {
+  font-family: 'Droid Serif', serif;
+}
+
+.paragraph-13 {
+  font-family: 'Droid Serif', serif;
+}
+
+.paragraph-14 {
+  font-family: 'Droid Serif', serif;
+}
+
+.bold-text-5 {
+  font-family: Montserrat, sans-serif;
+}
+
+.paragraph-15 {
+  font-family: 'Droid Serif', serif;
+}
+
+.paragraph-16 {
+  background-color: transparent;
+  font-family: 'Droid Serif', serif;
+  color: #ff8c00;
+  font-size: 18px;
+}
+
+.image-5 {
+  position: static;
+  display: block;
+  max-width: 130%;
+  margin-left: -150px;
+}
+
+.image-6 {
+  display: block;
+  overflow: visible;
+  width: 130%;
+  max-width: 100%;
+  margin-left: -150px;
+  -o-object-fit: fill;
+  object-fit: fill;
+}
+
+.image-7 {
+  margin-right: 10px;
+  margin-left: 60px;
+}
+
+.image-8 {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.image-9 {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.section-10 {
+  margin-top: 0px;
+  margin-left: 50px;
+}
+
+.image-10 {
+  margin-right: 10px;
+  margin-left: 60px;
+}
+
+.para {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-right: 100px;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  line-height: 25px;
+}
+
+.sectionspacetask {
+  margin-top: 300px;
+  margin-bottom: 300px;
+  padding-bottom: 220px;
+}
+
+.image-11 {
+  margin-top: 100px;
+}
+
+.column {
+  margin-top: 100px;
+}
+
+.columns-2 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.quote {
+  margin-right: 60px;
+  margin-bottom: 30px;
+  margin-left: 60px;
+  font-family: Bitter, serif;
+  color: #8f8f8f;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.image_1st {
+  margin-right: 10px;
+  margin-left: 60px;
+}
+
+.image_2nd {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.sction3 {
+  margin-top: 220px;
+  margin-bottom: 20px;
+  padding-right: 40px;
+  padding-left: 40px;
+}
+
+.image-12 {
+  border: 0px none #000;
+}
+
+.image-13 {
+  max-width: 120%;
+  margin-top: 40px;
+  margin-left: -70px;
+}
+
+.image-14 {
+  max-width: 70%;
+  margin-top: 40px;
+  margin-left: 140px;
+}
+
+.image-15 {
+  max-width: 80%;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.columns-3 {
+  margin-top: 40px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.column-2 {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.column-3 {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.image-16 {
+  max-width: 150%;
+  margin-left: -155px;
+}
+
+.image-17 {
+  max-width: 142%;
+  margin-left: -50px;
+}
+
+.image-18 {
+  max-width: 142%;
+  margin-left: 50px;
+}
+
+.link {
+  font-family: 'Droid Serif', serif;
+  color: #6caef5;
+}
+
+.image-20 {
+  max-width: 60%;
+  margin-top: 20px;
+  margin-left: 180px;
+}
+
+.column_para {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  line-height: 25px;
+}
+
+.container-2 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.text-block-9 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.nav-link {
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.navbar {
+  background-color: transparent;
+}
+
+.heading-11 {
+  font-family: Montserrat, sans-serif;
+}
+
+.paragraph-17 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 20px;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  color: #fff;
+  font-size: 24px;
+  line-height: 40px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.heading-12 {
+  font-family: Montserrat, sans-serif;
+  color: #fff;
+  line-height: 44px;
+}
+
+.columns-4 {
+  margin-top: 140px;
+  margin-bottom: 140px;
+}
+
+.container-3 {
+  background-color: transparent;
+}
+
+.section-11 {
+  min-height: 400px;
+  background-color: transparent;
+}
+
+.text-block-10 {
+  font-family: Montserrat, sans-serif;
+  font-size: 16px;
+}
+
+.text-block-11 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: Montserrat, sans-serif;
+  font-size: 18px;
+}
+
+.text-block-12 {
+  font-family: Montserrat, sans-serif;
+  font-size: 18px;
+}
+
+.text-block-13 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+}
+
+.text-block-14 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+}
+
+.heading-13 {
+  color: #fff;
+  text-align: right;
+}
+
+.paragraph-18 {
+  margin-top: 20px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  color: #fff;
+  font-size: 24px;
+  line-height: 40px;
+  text-align: right;
+}
+
+.container-4 {
+  margin-top: 40px;
+}
+
+.image-22 {
+  display: block;
+  max-height: 2162px;
+  -o-object-fit: fill;
+  object-fit: fill;
+}
+
+.image-23 {
+  position: absolute;
+  z-index: 0;
+  max-width: 100%;
+}
+
+.image-24 {
+  position: absolute;
+  z-index: 1;
+  max-width: 100%;
+  float: none;
+}
+
+.section-12 {
+  position: relative;
+  min-height: 700px;
+}
+
+.quotes {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-size: 18px;
+  line-height: 25px;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.rich-text-block {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  line-height: 25px;
+}
+
+.div-block {
+  position: relative;
+  top: 20px;
+  bottom: 20px;
+}
+
+.image-25 {
+  position: absolute;
+  z-index: 0;
+}
+
+.image-26 {
+  position: absolute;
+  z-index: 1;
+}
+
+.image-27 {
+  position: absolute;
+  z-index: 2;
+}
+
+.image-28 {
+  position: absolute;
+  z-index: 3;
+}
+
+.image-29 {
+  position: absolute;
+  z-index: 4;
+}
+
+.sectionspace {
+  margin-top: 300px;
+  margin-bottom: 300px;
+}
+
+.text-block-15 {
+  position: relative;
+  top: 220px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  color: #afafaf;
+  font-style: normal;
+  text-align: center;
+}
+
+.link-2 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-style: italic;
+}
+
+.text-block-16 {
+  font-style: normal;
+}
+
+.link-3 {
+  color: #afafaf;
+  cursor: pointer;
+}
+
+.container-5 {
+  cursor: pointer;
+}
+
+.text-span {
+  color: #ffa15f;
+  font-weight: 800;
+}
+
+.paragraph-19 {
+  margin-right: 60px;
+  margin-left: 60px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-size: 18px;
+}
+
+.sub-sub-title {
+  position: static;
+  padding-bottom: 10px;
+  padding-left: 60px;
+  font-family: Bitter, serif;
+  font-size: 20px;
+  line-height: 25px;
+  text-decoration: underline;
+}
+
+.para_finding {
+  padding-left: 60px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  line-height: 25px;
+}
+
+.div-block-2 {
+  position: relative;
+  z-index: 4;
+}
+
+.image-30 {
+  position: absolute;
+  z-index: 2;
+}
+
+.image-31 {
+  position: absolute;
+  z-index: 1;
+}
+
+.image-32 {
+  position: absolute;
+  z-index: 3;
+}
+
+.image-33 {
+  position: absolute;
+  z-index: 2;
+}
+
+.image-34 {
+  position: absolute;
+  z-index: 1;
+}
+
+.div-block-3 {
+  position: relative;
+  margin-top: 250px;
+}
+
+.image-35 {
+  position: absolute;
+  z-index: 1;
+}
+
+.image-36 {
+  position: absolute;
+  z-index: 2;
+}
+
+.div-block-4 {
+  position: relative;
+  padding-top: 250px;
+  padding-bottom: 250px;
+}
+
+.image-37 {
+  position: absolute;
+  z-index: 2;
+}
+
+.image-38 {
+  position: absolute;
+  z-index: 1;
+}
+
+.image-39 {
+  max-width: 50%;
+  margin-left: 165px;
+  text-align: left;
+}
+
+.image-40 {
+  max-width: 70%;
+  margin-left: 162px;
+}
+
+.image-41 {
+  max-width: 70%;
+}
+
+.image-42 {
+  position: static;
+  max-width: 65%;
+  margin-left: 146px;
+}
+
+.text-block-17 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  color: #afafaf;
+  text-align: center;
+}
+
+.image-43 {
+  box-shadow: 1px 1px 5px 0 #000;
+}
+
+.image-44 {
+  box-shadow: 1px 1px 7px 0 #000;
+}
+
+.paragraph-20 {
+  margin-top: 20px;
+}
+
+.image-45 {
+  max-width: 70%;
+  margin-left: 60px;
+}
+
+.image-46 {
+  position: relative;
+  z-index: 20;
+  max-width: 40%;
+  margin-top: -57px;
+  margin-left: 220px;
+}
+
+.image-47 {
+  max-width: 40%;
+  margin-top: 20px;
+}
+
+.slide3 {
+  background-image: url('../images/Presona_SunLi_A5_Rectangle_75_pattern2x.png');
+  background-position: 0px 0px;
+  background-size: cover;
+  background-repeat: repeat;
+}
+
+.slide4 {
+  background-image: url('../images/Presona_SunLi_A5_Rectangle_75_pattern2x.png');
+  background-position: 0px 0px;
+  background-size: auto;
+}
+
+.slider4 {
+  background-image: url('../images/Presona_AndyCheung_A5_Rectangle_77_pattern2x.png');
+  background-position: 0px 0px;
+  background-size: contain;
+  background-attachment: scroll;
+}
+
+.slider5 {
+  background-image: url('../images/Presona_SunLi_A5_Rectangle_75_pattern2x.png');
+  background-position: 0px 0px;
+  background-size: contain;
+}
+
+.bold-text-6 {
+  color: #ffa438;
+}
+
+.image-48 {
+  margin-top: 140px;
+  box-shadow: 1px 1px 3px 0 #000;
+}
+
+.text-block-18 {
+  margin-top: 20px;
+  color: #bdbdbd;
+  text-align: center;
+}
+
+.image-49 {
+  box-shadow: 1px 1px 3px 0 #000;
+}
+
+.link-block {
+  text-decoration: none;
+}
+
+.link-block-2 {
+  display: inline;
+  text-decoration: none;
+}
+
+.link-block-3 {
+  display: inline;
+  text-decoration: none;
+}
+
+.link-block-4 {
+  display: inline;
+  text-decoration: none;
+}
+
+.link-block-5 {
+  display: inline;
+  text-align: left;
+  text-decoration: none;
+}
+
+.link-block-6 {
+  display: inline;
+  text-decoration: none;
+}
+
+.grid {
+  grid-template-areas: "Area-4 Area"
+    "Area-2 Area-3"
+    "Area-5 .";
+  -ms-grid-rows: auto auto auto;
+  grid-template-rows: auto auto auto;
+}
+
+.image-50 {
+  max-width: 50%;
+}
+
+.image-51 {
+  position: static;
+  z-index: 20;
+  display: block;
+  max-width: 50%;
+  margin-top: 0px;
+  float: right;
+  clear: none;
+}
+
+.link-block-7 {
+  float: right;
+}
+
+.image-52 {
+  position: static;
+  overflow: visible;
+  max-width: 70%;
+  float: none;
+  text-align: left;
+  -o-object-fit: fill;
+  object-fit: fill;
+}
+
+.column-7 {
+  position: relative;
+  text-align: center;
+  background-clip: border-box;
+}
+
+.column-8 {
+  margin-top: 25px;
+  border-right: 3px dotted #000;
+  text-align: center;
+}
+
+.image-53 {
+  margin-top: 21px;
+}
+
+.mainpagefooter {
+  background-color: #000;
+}
+
+.container-6 {
+  margin-top: 89px;
+}
+
+@media screen and (max-width: 991px) {
+  .text-block {
+    margin-right: 60px;
+  }
+
+  .text-block-6 {
+    font-size: 20px;
+  }
+
+  .text-block-7 {
+    font-size: 20px;
+    font-weight: 400;
+  }
+
+  .heading {
+    margin-left: 60px;
+  }
+
+  .image-4 {
+    margin-top: 400px;
+  }
+
+  .image-5 {
+    max-width: 118%;
+    margin-left: -60px;
+  }
+
+  .image-6 {
+    margin-left: -70px;
+  }
+
+  .image-11 {
+    margin-top: 250px;
+  }
+
+  .image-14 {
+    max-width: 75%;
+    margin-left: 90px;
+  }
+
+  .image-15 {
+    max-width: 100%;
+    margin-top: 20px;
+    margin-left: 0px;
+  }
+
+  .image-16 {
+    max-width: 65%;
+    margin-left: 130px;
+  }
+
+  .image-17 {
+    max-width: 65%;
+    margin-left: 130px;
+  }
+
+  .image-18 {
+    max-width: 65%;
+    margin-left: 130px;
+  }
+
+  .image-19 {
+    max-width: 120%;
+    margin-left: -60px;
+  }
+
+  .link {
+    font-family: 'Droid Serif', serif;
+    color: #6caef5;
+  }
+
+  .image-20 {
+    max-width: 65%;
+    margin-left: 120px;
+  }
+
+  .column_para {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    line-height: 25px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .text-block {
+    margin-right: 40px;
+    margin-left: 40px;
+  }
+
+  .right-arrow {
+    background-color: transparent;
+  }
+
+  .icon {
+    margin-left: 40px;
+  }
+
+  .mask {
+    position: relative;
+    top: auto;
+  }
+
+  .slider {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+
+  .left-arrow {
+    background-color: transparent;
+  }
+
+  .text-block-7 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+  .heading {
+    margin-right: 40px;
+    margin-left: 40px;
+  }
+
+  .section-8 {
+    margin-top: 100px;
+    margin-bottom: 220px;
+    margin-left: 0px;
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+
+  .image-5 {
+    margin-left: -42px;
+  }
+
+  .para {
+    margin-top: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
+    font-family: 'Droid Serif', serif;
+    text-align: left;
+  }
+
+  .sectionspacetask {
+    margin-top: 140px;
+    margin-bottom: 140px;
+  }
+
+  .image-11 {
+    max-width: 70%;
+    margin: 20px auto 40px 60px;
+  }
+
+  .columns-2 {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .sction3 {
+    margin-top: 100px;
+  }
+
+  .image-14 {
+    max-width: 100%;
+    margin-top: 20px;
+    margin-left: 0px;
+  }
+
+  .image-16 {
+    max-width: 90%;
+    margin-left: 20px;
+  }
+
+  .image-17 {
+    max-width: 90%;
+    margin-left: 20px;
+  }
+
+  .image-18 {
+    max-width: 90%;
+    margin-left: 20px;
+  }
+
+  .image-20 {
+    max-width: 100%;
+    margin-left: 0px;
+  }
+
+  .column_para {
+    margin-top: 10px;
+  }
+
+  .icon-2 {
+    margin-right: 40px;
+  }
+
+  .heading-10 {
+    padding-right: 40px;
+    padding-left: 40px;
+    font-family: Montserrat, sans-serif;
+  }
+
+  .container {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+
+  .image-21 {
+    margin-bottom: 40px;
+  }
+
+  .columns-4 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+
+  .text-block-11 {
+    margin-top: 40px;
+    margin-bottom: 10px;
+  }
+
+  .heading-13 {
+    text-align: left;
+  }
+
+  .paragraph-18 {
+    text-align: left;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .slider {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+
+  .sub-title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    line-height: 25px;
+  }
+
+  .heading {
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .columns {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+
+  .image-4 {
+    margin-top: 20px;
+  }
+
+  .section-7 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .section-8 {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .bold-text {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .heading-3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .image-5 {
+    max-width: 110%;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-left: -15px;
+  }
+
+  .image-6 {
+    margin-left: auto;
+  }
+
+  .para {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+
+  .image-11 {
+    max-width: 90%;
+    margin-top: 40px;
+    margin-left: auto;
+  }
+
+  .column {
+    margin-top: 40px;
+  }
+
+  .columns-2 {
+    margin-top: auto;
+  }
+
+  .quote {
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+
+  .image_1st {
+    margin-left: 20px;
+  }
+
+  .sction3 {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .image-15 {
+    margin-top: 0px;
+    padding-bottom: 20px;
+  }
+
+  .image-16 {
+    max-width: 100%;
+    margin-left: auto;
+  }
+
+  .image-17 {
+    max-width: 100%;
+    margin-left: auto;
+  }
+
+  .image-18 {
+    max-width: 100%;
+    margin-left: auto;
+  }
+
+  .container {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .container-2 {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .column-4 {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+  .column-5 {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+}
+
