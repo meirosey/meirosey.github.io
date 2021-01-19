@@ -1,5 +1,5 @@
 <!DOCTYPE html><!--  This site was created in Webflow. http://www.webflow.com  -->
-<!--  Last Published: Mon Jan 18 2021 10:28:21 GMT+0000 (Coordinated Universal Time)  -->
+<!--  Last Published: Tue Jan 19 2021 06:05:54 GMT+0000 (Coordinated Universal Time)  -->
 <html data-wf-page="5fae01c8151512f0afb89bdc" data-wf-site="5f4c7da97750650a9a34af18">
 <head>
   <meta charset="utf-8">
@@ -19,18 +19,31 @@
   <link href="images/webclip.png" rel="apple-touch-icon">
 </head>
 <body class="header">
-  <div data-collapse="medium" data-animation="default" data-duration="400" id="Top_Nag" role="banner" class="navbar w-nav">
+  <div data-collapse="medium" data-animation="default" data-duration="400" id="Navbar" role="banner" class="navbar w-nav">
     <div class="container-4 w-container">
       <a href="index.html" class="w-nav-brand">
         <div class="text-block-9">Mei Fu</div>
       </a>
-      <nav role="navigation" class="w-nav-menu">
+      <nav role="navigation" class="nav-menu w-nav-menu">
         <a href="index.html" class="nav-link w-nav-link">Home</a>
-        <a href="project-3.html" aria-current="page" class="nav-link w-nav-link w--current">Works</a>
+        <div data-hover="1" data-delay="0" class="w-dropdown">
+          <div class="w-dropdown-toggle">
+            <div class="nav-link w-icon-dropdown-toggle"></div>
+            <div class="nav-link">Projects</div>
+          </div>
+          <nav class="dropdown-list w-dropdown-list">
+            <a href="project-1-birdie-mobile-redesign.html" class="dropdown_nag_link w-dropdown-link">Project 1 - Birdie Mobile Redesign</a>
+            <a href="project-2-claw-machine-interface.html" aria-current="page" class="dropdown_nag_link w-dropdown-link w--current">Project 2 - Claw Machine Interface</a>
+            <a href="project-3-chat-it-out.html" class="dropdown_nag_link w-dropdown-link">Project 3 - Chat It Out!</a>
+            <a href="project-4-eduhk-programme-website.html" class="dropdown_nag_link w-dropdown-link">Project 4 - EduHK Programme Website</a>
+            <a href="project-5-virtual-booth-website-design.html" class="dropdown_nag_link w-dropdown-link">Project 5 - Virtual Booth Website Design</a>
+            <a href="project-6-gov-abo-website.html" class="dropdown_nag_link w-dropdown-link">Project 6 - Gov ABO Website</a>
+          </nav>
+        </div>
         <a href="#" class="nav-link w-nav-link">Info</a>
       </nav>
-      <div class="w-nav-button">
-        <div class="w-icon-nav-menu"></div>
+      <div class="menu-button w-nav-button">
+        <div class="icon-3 w-icon-nav-menu"></div>
       </div>
     </div>
   </div>
@@ -169,7 +182,7 @@
     </div>
     <div class="container-3 w-container">
       <div class="w-layout-grid gallery-grid-container_footer">
-        <a id="Link-to-Project1" href="old-home.html" class="link-block-9 w-node-19fcf80c83be-afb89bdc w-inline-block">
+        <a id="Link-to-Project1" href="project-1-birdie-mobile-redesign.html" class="link-block-9 w-node-2072d325f26e-afb89bdc w-inline-block">
           <div class="gallery-lightbox">
             <div class="text-wrapper">
               <div class="text_overimage_small">
@@ -180,7 +193,7 @@
             <div class="div-block-19"><img src="https://d3e54v103j8qbb.cloudfront.net/plugins/Basic/assets/placeholder.60f9b1840c.svg" loading="lazy" alt="" class="image-59"></div>
           </div>
         </a>
-        <a id="GoToProject4" href="#" class="link-block-9 w-node-19fcf80c840c-afb89bdc w-inline-block">
+        <a id="GoToProject4" href="project-3-chat-it-out.html" class="link-block-9 w-node-1bbff66de285-afb89bdc w-inline-block">
           <div class="gallery-lightbox">
             <div class="text-wrapper">
               <div class="text_overimage_small">
@@ -191,7 +204,7 @@
             <div class="div-block-21"><img src="https://d3e54v103j8qbb.cloudfront.net/plugins/Basic/assets/placeholder.60f9b1840c.svg" loading="lazy" alt="" class="image-59"></div>
           </div>
         </a>
-        <a id="GoToProject5" href="#" class="link-block-9 w-node-19fcf80c83d3-afb89bdc w-inline-block">
+        <a id="GoToProject5" href="project-4-eduhk-programme-website.html" class="link-block-9 w-node-2072d325f283-afb89bdc w-inline-block">
           <div class="gallery-lightbox">
             <div class="text-wrapper">
               <div class="text_overimage_small">
@@ -202,7 +215,7 @@
             <div class="div-block-18"><img src="https://d3e54v103j8qbb.cloudfront.net/plugins/Basic/assets/placeholder.60f9b1840c.svg" loading="lazy" alt="" class="image-59"></div>
           </div>
         </a>
-        <a id="GoToProject6" href="#" class="link-block-9 w-node-19fcf80c83dd-afb89bdc w-inline-block">
+        <a id="GoToProject6" href="project-5-virtual-booth-website-design.html" class="link-block-9 w-node-2072d325f28d-afb89bdc w-inline-block">
           <div class="gallery-lightbox">
             <div class="text-wrapper">
               <div class="text_overimage_small">
@@ -213,7 +226,7 @@
             <div class="div-block-17 footer"><img src="https://d3e54v103j8qbb.cloudfront.net/plugins/Basic/assets/placeholder.60f9b1840c.svg" loading="lazy" alt="" class="image-59"></div>
           </div>
         </a>
-        <a id="w-node-19fcf80c83e9-afb89bdc" href="project-6-gov-abo-website.html" class="link-block-9 w-inline-block">
+        <a id="w-node-2072d325f299-afb89bdc" href="project-6-gov-abo-website.html" class="link-block-9 w-inline-block">
           <div class="gallery-lightbox">
             <div class="text-wrapper">
               <div class="text_overimage_small">
